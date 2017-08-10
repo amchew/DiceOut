@@ -63,8 +63,8 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // porting this to Mobile Center
-        MobileCenter.start(getApplication(), "20119dd2-8c46-4792-8a8b-ac8c23917955", Analytics.class, Crashes.class);
-
+        MobileCenter.start(getApplication(), "63ff5338-e72a-4a22-b673-41023ea21486", Analytics.class, Crashes.class);
+        
         // set initial score
         score = 0;
 
