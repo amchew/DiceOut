@@ -1,4 +1,4 @@
-package com.example.diceout;
+package com.acqy.diceout;
 
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
